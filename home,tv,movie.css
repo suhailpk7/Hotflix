@@ -1,0 +1,240 @@
+body{
+margin: 0px
+}
+.nevbar{
+    background-color:black;
+    width: 100%;
+    height: 60px;
+    position: fixed;
+    z-index: 1;
+}
+.nevbarlog img{
+    width: 140px;
+    height: 105px;
+    margin-top: -17px;
+    margin-left: 30px;
+}
+.nevhead{
+    margin-left: 251px;
+    margin-top: -70px;
+    font-size:20px;
+}
+.nevhead a{
+    text-decoration: none;
+    color:#737373 ;
+}
+.nevhead1{
+    font-size:20px;
+    margin-left: 350px;
+    margin-top: -22px;
+}
+.nevhead1 a{
+    text-decoration: none;
+    color:#737373 ;
+
+}
+.nevhead2{
+    font-size:20px;
+    margin-left: 480px;
+    margin-top: -22px;
+}
+.nevhead2 a{
+    text-decoration: none;
+    color: #737373;
+}
+.nevsearch{
+ margin-right: 190px;
+ float: right;
+ margin-top: -30px;
+ width: 200px;
+ height: 30px;
+ border: none;
+ color: white;
+ font-size: 15px;
+ background-color: rgb(67, 63, 63);
+}
+.fa-solid {
+    color:#737373;
+    float: right;
+    margin-right: 160px;
+    margin-top: -25px;
+}
+.nevbell img{
+    float: right;
+    width: 30px;
+    height: 30px;
+    margin-right: 60px;
+    margin-top: -31px;
+    cursor: pointer;
+}
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    font-family: Arial;
+    font-size: 17px;
+  }
+  
+  #myVideo {
+    width: 100%;
+    
+  }
+  .content {
+    position: absolute;
+    bottom: 0;
+    padding: 20px;
+  }
+  
+  #myBtn {
+    width: 150px;
+    font-size: 18px;
+    padding: 10px;
+    border: none;
+    background: black;
+    color: #fff;
+    cursor: pointer;
+
+  }
+  
+  #myBtn:hover {
+    background: #505050;
+    color: black;
+  }
+.btn button{
+  width: 150px;
+  height: 43px;
+  border: none;
+  cursor: pointer;
+  background-color: black;
+  font-size: 18px;
+  color: white;
+}
+.btn button:hover{
+  background-color: #505050;
+  color: black;
+}
+
+.back{
+    background-color: #000;
+    width: 100%;
+    height: 1200px;
+    margin-top: -25px;
+}
+.homelog img{
+  width: 160px;
+  height: 100px;
+  margin-left: 60px;
+  margin-top: 30px;
+}
+.frsthead h3{
+  color: #737373;
+  margin-left: 50px;
+ 
+}
+.img1 img{
+  width: 200px;
+  height: 160px;
+  margin-left: 80px;
+}
+.img2 img{
+  width: 200px;
+  height: 160px;
+  margin-left: 300px;
+  margin-top: -165px;
+   float: left;
+}
+.img3 img{
+  width: 200px;
+  height: 160px;
+  margin-top: -165px;
+  margin-left: 520px;
+  float: left;
+}
+.img4 img{
+  width: 200px;
+  height: 160px;
+  margin-top: -165px; 
+  float: left;
+  margin-left: 740px;
+}
+.img5 img{
+  width: 200px;
+  height: 160px;
+  margin-top: -165px; 
+  float: left;
+  margin-left: 960px;
+}
+.main3{
+  width: 100%;
+  height: 380px;
+  background-color: black;
+  margin-top: -9px;
+}
+.footr p{
+  color: #737373;
+  font-size: 1.3rem;
+  margin-top: -310px;
+  margin-left: 150px;
+}
+.footr p a{
+  text-decoration: none;
+  color: #737373;
+}
+.footritems{
+  margin-left: 112px;
+  margin-top: 10px;
+}
+.footrlink{
+  text-decoration: none;
+  color: #737373;
+}
+.footritems1{
+  margin-left: 355px;
+  margin-top: -103px;
+}
+.footritems2{
+  margin-left: 355px;
+  margin-top: 10px;
+}
+.footritems3{
+  margin-left: 600px;
+  margin-top: -103px;
+}
+.footritems4{
+  margin-left: 600px;
+  margin-top: 10px;
+}
+.footritems5{
+  margin-left: 850px;
+  margin-top: -103px;
+}
+.footritems6{
+  margin-left: 850px;
+  margin-top: 10px;
+}
+.dropbutfoot{
+  margin-top: 70px;
+  margin-left: 153px;
+}
+.dropbutfoot select{
+  width: 120px;
+  height: 45px;
+  background: none;
+  color: #737373;
+  border-radius: 4px;
+  font-size: 16px;
+  border: 1px solid #737373;
+}
+.underhead p{
+color: #737373;
+margin-left: 153px;
+margin-top: 30px;
+}
+.homelog1 img{
+width: 260px;
+height: 100px;
+margin-left: 40px;
+margin-top: 9px;
+}
